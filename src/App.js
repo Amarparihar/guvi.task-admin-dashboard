@@ -13,6 +13,8 @@ import Users from "./user";
 import Createuser from "./create-user";
 import Edituser from "./edit-user";
 import Profile from "./profile";
+import { UserProvider } from "./user-context";
+
 
 
 function App() {
@@ -20,6 +22,7 @@ function App() {
     <Router>
     <div id="wrapper">
       <Sidebar></Sidebar>
+      <UserProvider>
       <div id="content-wrapper" class="d-flex flex-column">
         <div id="content">
           <Topbar></Topbar>
@@ -41,6 +44,7 @@ function App() {
           </div>
         </div>
       </div>
+      </UserProvider>
     </div>
     </Router>
   );
