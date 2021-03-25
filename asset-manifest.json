@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/guvi.task-admin-dashboard/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/guvi.task-admin-dashboard/static/js/main.286ba739.chunk.js",
-    "main.js.map": "/guvi.task-admin-dashboard/static/js/main.286ba739.chunk.js.map",
-    "runtime-main.js": "/guvi.task-admin-dashboard/static/js/runtime-main.2e0ed328.js",
-    "runtime-main.js.map": "/guvi.task-admin-dashboard/static/js/runtime-main.2e0ed328.js.map",
-    "static/js/2.d85a7dac.chunk.js": "/guvi.task-admin-dashboard/static/js/2.d85a7dac.chunk.js",
-    "static/js/2.d85a7dac.chunk.js.map": "/guvi.task-admin-dashboard/static/js/2.d85a7dac.chunk.js.map",
-    "static/js/3.22629c95.chunk.js": "/guvi.task-admin-dashboard/static/js/3.22629c95.chunk.js",
-    "static/js/3.22629c95.chunk.js.map": "/guvi.task-admin-dashboard/static/js/3.22629c95.chunk.js.map",
-    "index.html": "/guvi.task-admin-dashboard/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/guvi.task-admin-dashboard/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.d85a7dac.chunk.js.LICENSE.txt": "/guvi.task-admin-dashboard/static/js/2.d85a7dac.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/guvi.task-admin-dashboard/static/media/logo.6ce24c58.svg"
+    "main.css": "/guvi.task-statearrangement/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/guvi.task-statearrangement/static/js/main.c8a945a4.chunk.js",
+    "main.js.map": "/guvi.task-statearrangement/static/js/main.c8a945a4.chunk.js.map",
+    "runtime-main.js": "/guvi.task-statearrangement/static/js/runtime-main.a09a875a.js",
+    "runtime-main.js.map": "/guvi.task-statearrangement/static/js/runtime-main.a09a875a.js.map",
+    "static/js/2.f1531b88.chunk.js": "/guvi.task-statearrangement/static/js/2.f1531b88.chunk.js",
+    "static/js/2.f1531b88.chunk.js.map": "/guvi.task-statearrangement/static/js/2.f1531b88.chunk.js.map",
+    "static/js/3.4ed36e2d.chunk.js": "/guvi.task-statearrangement/static/js/3.4ed36e2d.chunk.js",
+    "static/js/3.4ed36e2d.chunk.js.map": "/guvi.task-statearrangement/static/js/3.4ed36e2d.chunk.js.map",
+    "index.html": "/guvi.task-statearrangement/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/guvi.task-statearrangement/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f1531b88.chunk.js.LICENSE.txt": "/guvi.task-statearrangement/static/js/2.f1531b88.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/guvi.task-statearrangement/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e0ed328.js",
-    "static/js/2.d85a7dac.chunk.js",
+    "static/js/runtime-main.a09a875a.js",
+    "static/js/2.f1531b88.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.286ba739.chunk.js"
+    "static/js/main.c8a945a4.chunk.js"
   ]
 }
